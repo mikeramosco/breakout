@@ -33,7 +33,7 @@ public class Breakout extends GraphicsProgram {
 	private static final int PADDLE_Y_OFFSET = 30;
 
 	/** Number of bricks per row */
-	private static final int NBRICKS_PER_ROW = 5;
+	private static final int NBRICKS_PER_ROW = 10;
 
 	/** Number of rows of bricks */
 	private static final int NBRICK_ROWS = 10;
@@ -58,7 +58,7 @@ public class Breakout extends GraphicsProgram {
 	private static final int BRICK_Y_OFFSET = 70;
 
 	/** Number of turns */
-	private static final int NTURNS = 3;
+	private static final int NTURNS = 100;
 
 	/** Delay time for game */
 	private static final int DELAY = 10;

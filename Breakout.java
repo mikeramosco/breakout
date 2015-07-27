@@ -58,7 +58,7 @@ public class Breakout extends GraphicsProgram {
 	private static final int BRICK_Y_OFFSET = 70;
 
 	/** Number of turns */
-	private static final int NTURNS = 1;
+	private static final int NTURNS = 3;
 
 	/** Delay time for game */
 	private static final int DELAY = 10;
